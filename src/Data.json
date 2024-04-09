@@ -1,0 +1,2093 @@
+[
+    {
+        "_id": "650dd64b242e65bfe62591f8",
+        "available": null,
+        "brand": null,
+        "category": "Coadyuvante y Regulador de PH",
+        "created_at": "2024-02-05T21:02:57.070Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "100 ml",
+                "tipo_aplicacion": null,
+                "precio": 20.56,
+                "image": "0d31aea7330eeb85d3a00fdffdff7d7903601df7a07bbcb515a05a2b54edbec4.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "0d31aea7330eeb85d3a00fdffdff7d7903601df7a07bbcb515a05a2b54edbec4.jpeg",
+        "ismodel": 0,
+        "name": "Disawett® Max ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103000712",
+        "skumodel": "1103000713",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000712",
+                "Stock": 60,
+                "VirtualStock": 60,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000712",
+                "Stock": 60,
+                "VirtualStock": 60,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000712",
+                "Stock": 60,
+                "VirtualStock": 60,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000712",
+                "Stock": 60,
+                "VirtualStock": 60,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000712",
+                "Stock": 60,
+                "VirtualStock": 60,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000712",
+                "Stock": 60,
+                "VirtualStock": 60,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000712",
+                "Stock": 60,
+                "VirtualStock": 60,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:02:57.070Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14cdb705d52d4f08ec597",
+        "available": null,
+        "brand": null,
+        "category": "NUTRICIÓN AL SUELO",
+        "created_at": "2024-02-05T21:02:19.438Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "45.36 kg",
+                "tipo_aplicacion": "Granular",
+                "precio": 239.36,
+                "image": "1003002922_ca.png"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "1003002922_ca.png",
+        "ismodel": 0,
+        "name": "FertiHORTALIZA INICIO",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PNC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1003002922",
+        "skumodel": "1003002922",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002922",
+                "Stock": 14,
+                "VirtualStock": 14,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002922",
+                "Stock": 16,
+                "VirtualStock": 16,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002922",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002922",
+                "Stock": 14,
+                "VirtualStock": 14,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002922",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002922",
+                "Stock": 15,
+                "VirtualStock": 15,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002922",
+                "Stock": 14,
+                "VirtualStock": 14,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:02:19.438Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14ce2705d52d4f08ec5a2",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:05:05.016Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 L",
+                "tipo_aplicacion": "Foliar",
+                "precio": 26.35,
+                "image": "382cc87e7eb6fd474c18be8ed5671e336c3bd8c01e213212e89659819966a756.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "382cc87e7eb6fd474c18be8ed5671e336c3bd8c01e213212e89659819966a756.jpeg",
+        "ismodel": 0,
+        "name": "ULTRAFERT® ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1003000032",
+        "skumodel": "1003000032",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000032",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000032",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000032",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000032",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000032",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000032",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000032",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:05:05.016Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14ce5705d52d4f08ec5a8",
+        "available": null,
+        "brand": null,
+        "category": "NUTRICIÓN AL SUELO",
+        "created_at": "2024-02-05T21:02:29.692Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 L",
+                "tipo_aplicacion": "Foliar",
+                "precio": 93.63,
+                "image": "ba34827a035c1bc28e4ab9d1f063206ea3ea5e2208323f11676d8511d33c1c80.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "ba34827a035c1bc28e4ab9d1f063206ea3ea5e2208323f11676d8511d33c1c80.jpeg",
+        "ismodel": 0,
+        "name": "BIOSMART® ALGAE",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1003002438",
+        "skumodel": "1003002438",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002438",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002438",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002438",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002438",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002438",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002438",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002438",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:02:29.692Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14cef705d52d4f08ec5ba",
+        "available": null,
+        "brand": null,
+        "category": "NUTRICIÓN AL SUELO",
+        "created_at": "2024-02-05T21:02:39.286Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "45.36 kg",
+                "tipo_aplicacion": "Granular",
+                "precio": 239.36,
+                "image": "1003002921_ca.png"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "1003002921_ca.png",
+        "ismodel": 0,
+        "name": "FertiHORTALIZA REFUERZO",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PNC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1003002921",
+        "skumodel": "1003002921",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002921",
+                "Stock": 15,
+                "VirtualStock": 15,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002921",
+                "Stock": 16,
+                "VirtualStock": 16,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002921",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002921",
+                "Stock": 14,
+                "VirtualStock": 14,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002921",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002921",
+                "Stock": 15,
+                "VirtualStock": 15,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002921",
+                "Stock": 14,
+                "VirtualStock": 14,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:02:39.286Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14cf3705d52d4f08ec5c3",
+        "available": null,
+        "brand": null,
+        "category": "NUTRICIÓN AL SUELO",
+        "created_at": "2024-02-05T21:02:43.536Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 L",
+                "tipo_aplicacion": null,
+                "precio": 168.14,
+                "image": "biosmart_senestar_.jpg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "biosmart_senestar_.jpg",
+        "ismodel": 0,
+        "name": "BIOSMART® SENESTAR",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1003002539",
+        "skumodel": "1003002539",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003002539",
+                "Stock": 3,
+                "VirtualStock": 3,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:02:43.536Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14cf9705d52d4f08ec5d3",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:05:01.886Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 kg",
+                "tipo_aplicacion": "Foliar",
+                "precio": 55.04,
+                "image": "c48e1e0da22160ba618409727e5e2814d0b062027fe44d8cc3b89bfc0d3870a1.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "c48e1e0da22160ba618409727e5e2814d0b062027fe44d8cc3b89bfc0d3870a1.jpeg",
+        "ismodel": 0,
+        "name": "Ultra KP® ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1003000484",
+        "skumodel": "1003002406",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000484",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000484",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000484",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000484",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000484",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000484",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003000484",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:05:01.886Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14cfb705d52d4f08ec60c",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:02:51.238Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 kg",
+                "tipo_aplicacion": null,
+                "precio": 502,
+                "image": "futron.png"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "futron.png",
+        "ismodel": 0,
+        "name": "Futron®",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103001138",
+        "skumodel": "1103001138",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001138",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001138",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001138",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001138",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001138",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:02:51.238Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d06705d52d4f08ec63b",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:02.007Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 L",
+                "tipo_aplicacion": null,
+                "precio": 87.49,
+                "image": "e4328a8fde3017ee2236ed2472a0c892761529819d5bc30ade619b82cff088c2.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "e4328a8fde3017ee2236ed2472a0c892761529819d5bc30ade619b82cff088c2.jpeg",
+        "ismodel": 0,
+        "name": "Clorfos®",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103000289",
+        "skumodel": "1103000289",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000289",
+                "Stock": 3,
+                "VirtualStock": 3,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:02.007Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d0e705d52d4f08ec64c",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:10.970Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "200 g",
+                "tipo_aplicacion": null,
+                "precio": 195.5,
+                "image": "d1f4ef86e155eb733deee9cab2678d0aee9d0a3b2efd2b653c07f76dd56473bd.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "d1f4ef86e155eb733deee9cab2678d0aee9d0a3b2efd2b653c07f76dd56473bd.jpeg",
+        "ismodel": 0,
+        "name": "Actiler®",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103001136",
+        "skumodel": "1103001135",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001136",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001136",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001136",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001136",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001136",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001136",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001136",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:10.970Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d10705d52d4f08ec64f",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:12.559Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "75 ml",
+                "tipo_aplicacion": null,
+                "precio": 91.8,
+                "image": "c184e73d765f78d234f485d85058988c278d89ced66db96bf885abbbdd230c7a.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "c184e73d765f78d234f485d85058988c278d89ced66db96bf885abbbdd230c7a.jpeg",
+        "ismodel": 0,
+        "name": "Winner®",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103000450",
+        "skumodel": "1103000714",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000450",
+                "Stock": 48,
+                "VirtualStock": 48,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000450",
+                "Stock": 48,
+                "VirtualStock": 48,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000450",
+                "Stock": 48,
+                "VirtualStock": 48,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000450",
+                "Stock": 48,
+                "VirtualStock": 48,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000450",
+                "Stock": 48,
+                "VirtualStock": 48,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000450",
+                "Stock": 48,
+                "VirtualStock": 48,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000450",
+                "Stock": 48,
+                "VirtualStock": 48,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:12.559Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d13705d52d4f08ec654",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:15.381Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 L",
+                "tipo_aplicacion": null,
+                "precio": 72.51,
+                "image": "c433b38454f604d17bcf921779af5035ecf246bb7a3525deaf7921f1495394e0.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "c433b38454f604d17bcf921779af5035ecf246bb7a3525deaf7921f1495394e0.jpeg",
+        "ismodel": 0,
+        "name": "Prix®",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103000877",
+        "skumodel": "1103000877",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000877",
+                "Stock": 1,
+                "VirtualStock": 1,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:15.381Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d14705d52d4f08ec657",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:16.744Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "500 ml",
+                "tipo_aplicacion": null,
+                "precio": 42.71,
+                "image": "99c1fe008b8034731b45f96d54edc706c79fd818f01b15655cd727c4a40bbb23.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "99c1fe008b8034731b45f96d54edc706c79fd818f01b15655cd727c4a40bbb23.jpeg",
+        "ismodel": 0,
+        "name": "Prix®",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103000880",
+        "skumodel": "1103000877",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000880",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000880",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000880",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000880",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000880",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000880",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:16.744Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d15705d52d4f08ec65a",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:17.988Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "800 g",
+                "tipo_aplicacion": null,
+                "precio": 42.87,
+                "image": "7e2ac390086d9322fb54d947409d0739c377ad9688d8059045892bb4ec548910.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "7e2ac390086d9322fb54d947409d0739c377ad9688d8059045892bb4ec548910.jpeg",
+        "ismodel": 0,
+        "name": "Arko® ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103000415",
+        "skumodel": "1103000415",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000415",
+                "Stock": 3,
+                "VirtualStock": 3,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:17.988Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d1e705d52d4f08ec665",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:04:29.016Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "500 ml",
+                "tipo_aplicacion": null,
+                "precio": 60.56,
+                "image": "5d35bba9f62f74e0c16f2ca681a3525a3388a5ac35cc6ff4ce40e7c6fd8b8a99.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "5d35bba9f62f74e0c16f2ca681a3525a3388a5ac35cc6ff4ce40e7c6fd8b8a99.jpeg",
+        "ismodel": 0,
+        "name": "Landris® ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103000853",
+        "skumodel": "1103000854",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000853",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000853",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000853",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000853",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000853",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000853",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000853",
+                "Stock": 24,
+                "VirtualStock": 24,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:04:29.016Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d22705d52d4f08ec66e",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:30.939Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "150 g",
+                "tipo_aplicacion": null,
+                "precio": 68,
+                "image": "cd0f750ee8080f8a3a7d87321400c93835bb3a693abca5002aa68fc56531aa73.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "cd0f750ee8080f8a3a7d87321400c93835bb3a693abca5002aa68fc56531aa73.jpeg",
+        "ismodel": 0,
+        "name": "Salvate®",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103000997",
+        "skumodel": "1103000998",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000997",
+                "Stock": 66,
+                "VirtualStock": 66,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000997",
+                "Stock": 66,
+                "VirtualStock": 66,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000997",
+                "Stock": 66,
+                "VirtualStock": 66,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000997",
+                "Stock": 66,
+                "VirtualStock": 66,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000997",
+                "Stock": 66,
+                "VirtualStock": 66,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000997",
+                "Stock": 66,
+                "VirtualStock": 66,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103000997",
+                "Stock": 66,
+                "VirtualStock": 66,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:30.939Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d29705d52d4f08ec6d3",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:37.584Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "100 g",
+                "tipo_aplicacion": null,
+                "precio": 66.82,
+                "image": "1103001178.png"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "1103001178.png",
+        "ismodel": 0,
+        "name": "Cepadik®",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103001178",
+        "skumodel": "1103001179",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001178",
+                "Stock": 10,
+                "VirtualStock": 10,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:37.584Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d31705d52d4f08ec795",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:45.825Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 L",
+                "tipo_aplicacion": null,
+                "precio": 183.72,
+                "image": "0d28c3174a46f446ee469700a84dccf73746e5f7e26175f0ab6ce358d6e0460a.jpeg"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "0d28c3174a46f446ee469700a84dccf73746e5f7e26175f0ab6ce358d6e0460a.jpeg",
+        "ismodel": 0,
+        "name": "Supralid® ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103001158",
+        "skumodel": "1103001158",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001158",
+                "Stock": 12,
+                "VirtualStock": 12,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001158",
+                "Stock": 12,
+                "VirtualStock": 12,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001158",
+                "Stock": 12,
+                "VirtualStock": 12,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001158",
+                "Stock": 12,
+                "VirtualStock": 12,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001158",
+                "Stock": 12,
+                "VirtualStock": 12,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001158",
+                "Stock": 12,
+                "VirtualStock": 12,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001158",
+                "Stock": 12,
+                "VirtualStock": 12,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:45.825Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d3d705d52d4f08ec7a5",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:03:57.943Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "250 ml",
+                "tipo_aplicacion": null,
+                "precio": 98.39,
+                "image": "slatun_68.75_-_250ml.png"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "slatun_68.75_-_250ml.png",
+        "ismodel": 0,
+        "name": "Slatun® ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103001534",
+        "skumodel": "1103001525",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001534",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001534",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001534",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001534",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001534",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001534",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001534",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:03:57.943Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d4d705d52d4f08ec814",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:04:13.100Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "250 ml",
+                "tipo_aplicacion": null,
+                "precio": 185,
+                "image": "1103001210_ca.png"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "1103001210_ca.png",
+        "ismodel": 0,
+        "name": "Cydome® ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103001210",
+        "skumodel": "1103001209",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001210",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001210",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001210",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001210",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001210",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001210",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001210",
+                "Stock": 40,
+                "VirtualStock": 40,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:04:13.100Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "65c14d78705d52d4f08ec8fd",
+        "available": null,
+        "brand": null,
+        "category": "PROGRAMA DE NUTRICIÓN FOLIAR Y FITOSANITARIO",
+        "created_at": "2024-02-05T21:04:56.910Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "250 ml",
+                "tipo_aplicacion": null,
+                "precio": 59.55,
+                "image": "img_gt_1103001111.png"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "img_gt_1103001111.png",
+        "ismodel": 0,
+        "name": "Regalia Maxx® ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1103001110",
+        "skumodel": "1103001111",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001110",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201129"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001110",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "205202"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001110",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001110",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203993"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001110",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "203323"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001110",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "201032"
+            },
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1103001110",
+                "Stock": 20,
+                "VirtualStock": 20,
+                "ClaseAprovisionamiento": "F",
+                "Client": "200824"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-02-05T21:04:56.910Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    },
+    {
+        "_id": "6601eed19baf7b38f2171e75",
+        "available": null,
+        "brand": null,
+        "category": "NUTRICIÓN AL SUELO",
+        "created_at": "2024-03-25T21:38:25.435Z",
+        "crops": null,
+        "custom_attributes": [
+            {
+                "presentation": "1 L",
+                "tipo_aplicacion": "Foliar",
+                "precio": 52.64,
+                "image": "c1003003020_cr.png"
+            }
+        ],
+        "customerSAP": null,
+        "description": null,
+        "factor": null,
+        "filters": [
+            "sfa"
+        ],
+        "groupby": null,
+        "image": "c1003003020_cr.png",
+        "ismodel": 0,
+        "name": "BIOSMART® AMIN ",
+        "prices": null,
+        "reserveinventory": 0,
+        "salesorg": "5001",
+        "sector": "PPC",
+        "service": "sfa",
+        "short_description": null,
+        "sku": "1003003020",
+        "skumodel": "1003003020",
+        "status": 1,
+        "stock": 0,
+        "stockbysource": [
+            {
+                "OrgVentas": "5001",
+                "Centro": "50C1",
+                "Sku": "1003003020",
+                "Stock": 3,
+                "VirtualStock": 3,
+                "ClaseAprovisionamiento": "F",
+                "Client": "202793"
+            }
+        ],
+        "totalstock": 0,
+        "type": null,
+        "umb": null,
+        "unitperbox": null,
+        "unitprice": null,
+        "unitprices": null,
+        "updated_at": "2024-03-25T21:38:25.435Z",
+        "validity_date": null,
+        "virtualstock": 0,
+        "visibility": null
+    }
+]
